@@ -13,33 +13,13 @@ Education
 ======
 * Ph.D in Economics, McMaster University, 2025 (expected)
 * M.A. in Economics, University of Waterloo, 2019
-* B.Sc. in Economics & Mathematics, University of Toronto, 2016
+* B.Sc. with High Distinction in Economics & Mathematics, University of Toronto, 2016
 
-Work experience
+Research Intersts
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Macroeconomics
+* Environmental Economics
+* International Economics
 
 Publications
 ======
@@ -59,6 +39,24 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* *Programming Languages*
+  * Python
+  * Fortran
+  * Julia
+  * Matlab
+  * R
+  * Stata
+  * JavaScript
+  * PHP
+* *Markdown Languages*
+  * Latex
+  * Markdown
+  * HTML
+  * CSS
+* *Spoken Languages*
+  * English
+  * French
+
+
