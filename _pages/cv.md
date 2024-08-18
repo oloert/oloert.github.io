@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My full [C.V.](./files/loertscher_cv.pdf)
+
 Education
 ======
 * Ph.D in Economics, McMaster University, 2025 (expected)
