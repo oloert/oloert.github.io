@@ -11,7 +11,7 @@ author_profile: true
 
 * ***SORE Losers: Small Oil-Rich Economies and the Green Transition***
 
-  * <sub><sup>**Abstract**: The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the welfare impacts of the 2000s oil price boom before investigating the predicted welfare affects of vanishing global demand for fossil inputs. Consistent with the existing literature, my model produces welfare gains out of the 2000s energy price boom. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</sup></sub>
+  * **Abstract**: The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the welfare impacts of the 2000s oil price boom before investigating the predicted welfare affects of vanishing global demand for fossil inputs. Consistent with the existing literature, my model produces welfare gains out of the 2000s energy price boom. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.
 
 ## Publications
 
