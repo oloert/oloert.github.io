@@ -19,9 +19,7 @@ Education
 
 Research Intersts
 ======
-* Macroeconomics
-* Environmental Economics
-* International Economics
+* Macroeconomics, Environmental Economics, International Economics
 
 Publications
 ======
