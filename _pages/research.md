@@ -22,7 +22,7 @@ author_profile: true
 
 * ***Non-Homothetic Ricardo*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
 
-* The Macroeconomics of Green Firms
+* ***The Macroeconomics of Green Firms***
 
 
 
