@@ -9,7 +9,7 @@ author_profile: true
 
 ### McMaster University
 
-**ECON 3HH3: International Trade (Summer 2022)**
+***ECON 3HH3: International Trade (Summer 2022)***
 
 [[Course Outline](../files/3HH3_outline.pdf)] [[Evaluations](../files/3HH3_evaluations.pdf)]
 
@@ -19,14 +19,14 @@ author_profile: true
 
 ### McMaster University
 
-**ECON 721: Graduate Macroeconomics (Fall 2021, Fall 2022)**
+***ECON 721: Graduate Macroeconomics (Fall 2021, Fall 2022)***
 
-**ECON 3H03: International Monetary Economics (Fall 2019)**
+***ECON 3H03: International Monetary Economics (Fall 2019)***
 
-**ECON 3K03: Monetary Economics (Fall 2019)**
+***ECON 3K03: Monetary Economics (Fall 2019)***
 
 ### University of Waterloo
 
-**ECON 393: Market Failures (Winter 2019)**
+***ECON 393: Market Failures (Winter 2019)***
 
-**ECON 221: Statistics for Economists (Fall 2018)**
+***ECON 221: Statistics for Economists (Fall 2018)***
