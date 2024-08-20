@@ -13,7 +13,11 @@ My research intersts are in Macroeconomics, Environmental Economics and Internat
 
 I am on the job market during the 2024-25 academic year and available for interviews.
 
-### Contact Information
+## Job Market Paper
+
+***SORE Losers: Small Oil-Rich Economies and the Green Transition***
+
+## Contact Information
 
 ***Email:*** [loertsco [at] mcmaster [dot] ca](mailto:loertsco@mcmaster.ca)
 
