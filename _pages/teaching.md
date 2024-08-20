@@ -19,13 +19,10 @@ author_profile: true
 ### McMaster University
 
 * *ECON 721: Graduate Macroeconomics (Fall 2021, Fall 2022)*
-
 * *ECON 3H03: International Monetary Economics (Fall 2019)*
-
 * *ECON 3K03: Monetary Economics (Fall 2019)*
 
 ### University of Waterloo
 
 * *ECON 393: Market Failures (Winter 2019)*
-
 * *ECON 221: Statistics for Economists (Fall 2018)*

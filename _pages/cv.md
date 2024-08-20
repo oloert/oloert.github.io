@@ -33,18 +33,26 @@ Teaching
   2022 - ECON 3HH3, *International Trade*, McMaster University
 * ***Teaching Assistant***  
   2022 - ECON 721, *Graduate Macroeconomics*, McMaster University  
+    
   2021 - ECON 721, *Graduate Macroeconomics*, McMaster University  
+    
   2019 - ECON 3H03, *International Monetary Economics*, McMaster University  
+    
   2019 - ECON 3K03, *Monetary Economics*, McMaster University  
+    
   2019 - ECON 393, *Market Failures*, University of Waterloo  
+    
   2018 - ECON 221, *Statistics for Economists*, University of Waterloo  
 
 Research Experience
 ======
 * ***Research Assistant***  
   2020-*Present* - Professor Pau S. Pujolàs, McMaster University  
+    
   2020 - Professor Arthur Sweetman, McMaster University  
+    
   2013-2015 - Professor Michelle Alexopoulos, University of Toronto  
+    
   2014 - Professor Ismael Mourifie, University of Toronto  
   
 Skills
