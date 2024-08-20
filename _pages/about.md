@@ -21,7 +21,7 @@ I am on the job market during the 2024-25 academic year and available for interv
 
 ***Email:*** [loertsco [at] mcmaster [dot] ca](mailto:loertsco@mcmaster.ca)
 
-### References
+## References
 
 * [Pau S. Pujolàs](https://pau.pujolasfons.com/), McMaster University
 * [Gajendran Raveendranathan](https://sites.google.com/site/gajendranraveendranathan/home), McMaster University
