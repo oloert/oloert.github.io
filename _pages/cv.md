@@ -50,8 +50,7 @@ My full [C.V.](../files/loertscher_cv.pdf)
     
   2014 - Professor Ismael Mourifie, University of Toronto  
   
-Skills
-======
+<h2 id="skills">Skills</h2>
 * ***Programming Languages***  
   Python, Fortran, Julia, Matlab, R, Stata, JavaScript, PHP  
 * ***Markdown Languages***  
