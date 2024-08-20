@@ -25,9 +25,11 @@ My full [C.V.](../files/loertscher_cv.pdf)
   
 
 <h2 id="teaching">Teaching</h2>
-* ***Instructor***  
-  2022 - ECON 3HH3, *International Trade*, McMaster University
-* ***Teaching Assistant***  
+* ***Instructor***
+  <ul style="list-style-type:none;padding-inline-start:0;">
+  <li>2022 - ECON 3HH3, *International Trade*, McMaster University</li>
+  </ul>
+* ***Teaching Assistant***
   <ul style="list-style-type:none; padding-inline-start:0;">
   <li>2022 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
   <li>2021 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
@@ -37,7 +39,7 @@ My full [C.V.](../files/loertscher_cv.pdf)
   <li>2018 - ECON 221, *Statistics for Economists*, University of Waterloo</li>
   </ul>
 <h2 id="research-experience">Research Experience</h2>
-* ***Research Assistant***  
+* ***Research Assistant***
   <ul style="list-style-type:none;padding-inline-start:0;">
   <li>2020-*Present* - Professor Pau S. Pujolàs, McMaster University</li>
   <li>2020 - Professor Arthur Sweetman, McMaster University</li>  
@@ -46,10 +48,16 @@ My full [C.V.](../files/loertscher_cv.pdf)
   </ul>
 <h2 id="skills">Skills</h2>
 * ***Programming Languages***  
-  Python, Fortran, Julia, Matlab, R, Stata, JavaScript, PHP  
+  <ul style="list-style-type:none;padding-inline-start:0;">
+  <li>Python, Fortran, Julia, Matlab, R, Stata, JavaScript, PHP</li>
+  </ul>  
 * ***Markdown Languages***  
-  Latex, Markdown, HTML, CSS  
+  <ul style="list-style-type:none;padding-inline-start:0;">
+  <li>Latex, Markdown, HTML, CSS  </li>
+  </ul>
 * ***Spoken Languages***  
-  English, French
+  <ul style="list-style-type:none;padding-inline-start:0;">
+  <li>English, French</li>
+  </ul>
 
 
