@@ -28,28 +28,22 @@ My full [C.V.](../files/loertscher_cv.pdf)
 * ***Instructor***  
   2022 - ECON 3HH3, *International Trade*, McMaster University
 * ***Teaching Assistant***  
-  2022 - ECON 721, *Graduate Macroeconomics*, McMaster University  
-    
-  2021 - ECON 721, *Graduate Macroeconomics*, McMaster University  
-    
-  2019 - ECON 3H03, *International Monetary Economics*, McMaster University  
-    
-  2019 - ECON 3K03, *Monetary Economics*, McMaster University  
-    
-  2019 - ECON 393, *Market Failures*, University of Waterloo  
-    
-  2018 - ECON 221, *Statistics for Economists*, University of Waterloo  
-
+  <ul style="list-style-type:none;">
+  <li>2022 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
+  <li>2021 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
+  <li>2019 - ECON 3H03, *International Monetary Economics*, McMaster University</li>
+  <li>2019 - ECON 3K03, *Monetary Economics*, McMaster University</li>
+  <li>2019 - ECON 393, *Market Failures*, University of Waterloo</li>
+  <li>2018 - ECON 221, *Statistics for Economists*, University of Waterloo</li>
+  </ul>
 <h2 id="research-experience">Research Experience</h2>
 * ***Research Assistant***  
-  2020-*Present* - Professor Pau S. Pujolàs, McMaster University  
-    
-  2020 - Professor Arthur Sweetman, McMaster University  
-    
-  2013-2015 - Professor Michelle Alexopoulos, University of Toronto  
-    
-  2014 - Professor Ismael Mourifie, University of Toronto  
-  
+  <ul style="list-style-type:none;">
+  <li>2020-*Present* - Professor Pau S. Pujolàs, McMaster University</li>
+  <li>2020 - Professor Arthur Sweetman, McMaster University</li>  
+  <li>2013-2015 - Professor Michelle Alexopoulos, University of Toronto</li>  
+  <li>2014 - Professor Ismael Mourifie, University of Toronto</li>  
+  </ul>
 <h2 id="skills">Skills</h2>
 * ***Programming Languages***  
   Python, Fortran, Julia, Matlab, R, Stata, JavaScript, PHP  
