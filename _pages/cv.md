@@ -28,7 +28,7 @@ My full [C.V.](../files/loertscher_cv.pdf)
 * ***Instructor***  
   2022 - ECON 3HH3, *International Trade*, McMaster University
 * ***Teaching Assistant***  
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:none; padding-inline-start=0">
   <li>2022 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
   <li>2021 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
   <li>2019 - ECON 3H03, *International Monetary Economics*, McMaster University</li>
@@ -38,7 +38,7 @@ My full [C.V.](../files/loertscher_cv.pdf)
   </ul>
 <h2 id="research-experience">Research Experience</h2>
 * ***Research Assistant***  
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:none;padding-inline-start=0">
   <li>2020-*Present* - Professor Pau S. Pujolàs, McMaster University</li>
   <li>2020 - Professor Arthur Sweetman, McMaster University</li>  
   <li>2013-2015 - Professor Michelle Alexopoulos, University of Toronto</li>  
