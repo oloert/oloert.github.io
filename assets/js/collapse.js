@@ -15,13 +15,3 @@ $(".header").click(function () {
 
 });
 
-$("#abstract").click(function () {
-    $abstract = $(this);
-    $content = $header.next('#paperAbstract');
-    if ($content.style.display == "none"){
-        $content.style.display == "block";
-    }
-    else{
-        $content.style.display == "none";
-    }
-});
