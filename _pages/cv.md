@@ -27,21 +27,21 @@ My full [C.V.](../files/loertscher_cv.pdf)
 <h2 id="teaching">Teaching</h2>
 * ***Instructor***
   <ul style="list-style-type:none;padding-inline-start:0;">
-  <li>2022 - ECON 3HH3, *International Trade*, McMaster University</li>
+  <li>2022 - ECON 3HH3, <em>International Trade</em>, McMaster University</li>
   </ul>
 * ***Teaching Assistant***
   <ul style="list-style-type:none; padding-inline-start:0;">
-  <li>2022 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
-  <li>2021 - ECON 721, *Graduate Macroeconomics*, McMaster University</li> 
-  <li>2019 - ECON 3H03, *International Monetary Economics*, McMaster University</li>
-  <li>2019 - ECON 3K03, *Monetary Economics*, McMaster University</li>
-  <li>2019 - ECON 393, *Market Failures*, University of Waterloo</li>
-  <li>2018 - ECON 221, *Statistics for Economists*, University of Waterloo</li>
+  <li>2022 - ECON 721, <em>Graduate Macroeconomics</em>, McMaster University</li> 
+  <li>2021 - ECON 721, <em>Graduate Macroeconomics</em>, McMaster University</li> 
+  <li>2019 - ECON 3H03, <em>International Monetary Economics</em>, McMaster University</li>
+  <li>2019 - ECON 3K03, <em>Monetary Economics</em>, McMaster University</li>
+  <li>2019 - ECON 393, <em>Market Failures</em>, University of Waterloo</li>
+  <li>2018 - ECON 221, <em>Statistics for Economists</em>, University of Waterloo</li>
   </ul>
 <h2 id="research-experience">Research Experience</h2>
 * ***Research Assistant***
   <ul style="list-style-type:none;padding-inline-start:0;">
-  <li>2020-*Present* - Professor Pau S. Pujolàs, McMaster University</li>
+  <li>2020-<em>Present</em> - Professor Pau S. Pujolàs, McMaster University</li>
   <li>2020 - Professor Arthur Sweetman, McMaster University</li>  
   <li>2013-2015 - Professor Michelle Alexopoulos, University of Toronto</li>  
   <li>2014 - Professor Ismael Mourifie, University of Toronto</li>  
