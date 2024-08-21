@@ -1,6 +1,6 @@
 
 $("#abstract").click(function () {
-    $(this).next('#paperAbstract').toggle();
+    $(this).parent().next('#paperAbstract').toggle();
     }
 );
 
