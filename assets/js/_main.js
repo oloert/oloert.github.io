@@ -98,8 +98,5 @@ $(document).ready(function(){
 
 });
 
-$("#abstract").click(function () {
-    $(this).next('#paperAbstract').toggle();
-    }
-);
+
 
