@@ -46,7 +46,7 @@ author_profile: true
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary:</em></strong>Traditional models of international trade are capable of matching export patterns very well, but are less reliable at mapping imports. In this paper we develop a novel Ricardian model of international trade to capture import concentration and changes at the Least Trade Product Margin.</p></div>
+<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary:</em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can get export concentration right, they are unable to match import concentration. In this paper we enrich a multi-country Ricardian model of international trade to match import and export concentration. Our model is also able to account for changes in the Least Traded Products margin after a trade liberalization.</p></div>
 * ***The Economics of Green Firms***
 <div id="container" class="paper-link-div"> 
 <a id="abstract" onclick="displayTog('ectpAbstract')"><b>[Abstract]</b></a>
