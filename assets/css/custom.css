@@ -1,5 +1,6 @@
 .flex-container {
   display: flex;
+  padding: none;
 }
 
 .flex-container > a {
