@@ -6,3 +6,11 @@
   margin: 10px;
   padding: 20px;
 }
+
+.paper-link-div {
+  padding-inline-start: 40px;
+}
+
+.media-link-div > a {
+  padding-right: 5px;
+}
