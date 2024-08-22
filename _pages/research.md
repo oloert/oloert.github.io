@@ -20,12 +20,12 @@ author_profile: true
 
 ## Publications
 
-* ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*  
-  <div id="container"> 
+* ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
+<div id="container"> 
   <a id="abstract"><b>[Abstract]</b></a>
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Paper]</b></a>
   <a id="media"><b>[Media]</b></a>
-  </div>
+</div>
 <div id="paperAbstract" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
 <div id="paperMedia" style="display:none;">
 <a href="https://www.theglobeandmail.com/business/commentary/article-despite-its-shortcomings-canada-is-not-an-economic-basket-case/">Globe and Mail, </a>
