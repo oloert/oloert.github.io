@@ -9,10 +9,13 @@ author_profile: true
 
 ### McMaster University
 
-* *ECON 3HH3: International Trade (Summer 2022)*  
-   [[Course Outline](../files/3HH3_outline.pdf)] [[Evaluations](../files/3HH3_evaluations.pdf)]  
-     
-   *Description:* This course provides an introduction to the basis, consequences and policies of international trade and to the multilateral trading system and institutions such as the World Trade Organization. This course develops basic theories of international trade. These theories will help understand the reasons why countries trade goods and services and firms invest abroad; the determinants of trade patterns; and the impact of (gains and losses from) trade on welfare and economic development. The insights of these theories will help as well to address policy issues, such as trade and investment policies. We are interested to answer questions such as: Do countries gain from trade? How much? Are there losers from trade? Why do countries implement protectionist trade policies? What is the role of the WTO? Why do countries sign preferential trade agreements? What are the political forces that shape trade policies?
+* *ECON 3HH3: International Trade (Summer 2022)*
+<div id="container" class="paper-link-div"> 
+  <a id="description" onclick="displayTog('3hh3Desc')"><b>[Description]</b></a>
+  <a id="outline" href="../files/3HH3_outline.pdf"><b>[Course Outline]</b></a>
+  <a id="evaluations" href="../files/3HH3_evaluations.pdf"><b>[Evaluationd]</b></a>
+</div>
+<div id="3hh3Desc" class="paper-link-div" style="display:none;"><p>This course provides an introduction to the basis, consequences and policies of international trade and to the multilateral trading system and institutions such as the World Trade Organization. This course develops basic theories of international trade. These theories will help understand the reasons why countries trade goods and services and firms invest abroad; the determinants of trade patterns; and the impact of (gains and losses from) trade on welfare and economic development. The insights of these theories will help as well to address policy issues, such as trade and investment policies. We are interested to answer questions such as: Do countries gain from trade? How much? Are there losers from trade? Why do countries implement protectionist trade policies? What is the role of the WTO? Why do countries sign preferential trade agreements? What are the political forces that shape trade policies?</p></div>
 
 ## Teaching Assistant
 
