@@ -21,7 +21,7 @@ I am on the job market during the 2024-25 academic year and available for interv
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the predicted welfare impact of vanishing global demand for fossil inputs. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
+<div id="jmpAbstract" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the predicted welfare impact of vanishing global demand for fossil inputs. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
 
 ## Contact Information
 
