@@ -10,20 +10,14 @@ author_profile: true
 ## Job Market Paper
 
 * ***SORE Losers: Small Oil-Rich Economies and the Green Transition***  
-<ul style="list-style-type:none;padding-inline-start:0;">
-<li>
-<div>
-<div>
+<div style="padding-inline-start:40px;">
+<div class="flex-container">  
 <a id="abstract"><b>[Abstract]</b></a>
+<a id="paper"><b>[Paper]</b></a>
+<a id="slides"><b>[Slides]</b></a>
 </div>
 <div id="paperAbstract" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the welfare impacts of the 2000s oil price boom before investigating the predicted welfare affects of vanishing global demand for fossil inputs. Consistent with the existing literature, my model produces welfare gains out of the 2000s energy price boom. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
 </div>
-</li>
-</ul>
-
-
-
-
 
 ## Publications
 
