@@ -27,16 +27,7 @@ author_profile: true
   <a id="media"><b>[Media]</b></a>
   </div>
 <div id="paperAbstract" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
-<div id="paperMedia" style="display:none;">
-<a href="https://www.theglobeandmail.com/business/commentary/article-despite-its-shortcomings-canada-is-not-an-economic-basket-case/">Globe and Mail, </a>
-<a href="https://www.theglobeandmail.com/business/commentary/article-canadas-productivity-problem-isnt-that-big-if-we-exclude-oil/">Globe and Mail (II), </a>
-<a href="https://thehub.ca/2024/07/11/trevor-tombe-canadas-resource-sector-is-its-productivity-powerhouse/">The Hub, </a>
-<a href="https://www.tvo.org/article/is-canada-actually-facing-a-productivity-emergency">TVO, </a>
-<a href="https://brighterworld.mcmaster.ca/articles/over-a-barrel-canadas-oil-industry-is-a-drain-on-productivity-research-shows/">Brighter World, </a>
-<a href="https://worthwhile.typepad.com/worthwhile_canadian_initi/2024/06/tfp.html">Worthwhile Canadian Initiative, </a>
-<a href="https://nadaesgratis.es/admin/productividad-y-petroleo">NadaEsGratis</a>
-<a href="https://www.ctf.ca/EN/EN/Newsletters/Perspectives/2023/4/230405.aspx">Canadian Tax Foundation</a>
-</div>
+  [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319), **Media:** [Globe and Mail](https://www.theglobeandmail.com/business/commentary/article-despite-its-shortcomings-canada-is-not-an-economic-basket-case/), [Globe and Mail (II)](https://www.theglobeandmail.com/business/commentary/article-canadas-productivity-problem-isnt-that-big-if-we-exclude-oil/), [The Hub](https://thehub.ca/2024/07/11/trevor-tombe-canadas-resource-sector-is-its-productivity-powerhouse/), [TVO](https://www.tvo.org/article/is-canada-actually-facing-a-productivity-emergency), [Brighter World](https://brighterworld.mcmaster.ca/articles/over-a-barrel-canadas-oil-industry-is-a-drain-on-productivity-research-shows/), [Worthwhile Canadian Initiative](https://worthwhile.typepad.com/worthwhile_canadian_initi/2024/06/tfp.html), [NadaEsGratis](https://nadaesgratis.es/admin/productividad-y-petroleo), [Canadian Tax Foundation](https://www.ctf.ca/EN/EN/Newsletters/Perspectives/2023/4/230405.aspx) 
 
 ## Works in Progress
 
