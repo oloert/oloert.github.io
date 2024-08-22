@@ -53,7 +53,7 @@ author_profile: true
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="ectpAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How do producers of clean technology inputs differ from other firms? How responsive is the "Green Industry" to environmental policy? Using firm level data linked with survey responses, I identify producers of Environmental and Clean Technology Products (ECTP) and study their composition and dynamics overtime</p></div>
+<div id="ectpAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How do producers of clean technology inputs differ from other firms? How responsive is the "Green Industry" to environmental policy? Using firm level data linked with survey responses, I identify producers of Environmental and Clean Technology Products (ECTP) and study their composition and dynamics over time</p></div>
 
 
 
