@@ -46,7 +46,7 @@ author_profile: true
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can get export concentration right, they are unable to match import concentration. In this paper we enrich a multi-country Ricardian model of international trade to match import and export concentration. Our model is also able to account for changes in the Least Traded Products margin after a trade liberalization.</p></div>
+<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can account for export concentration, they are unable to adequately match import concentration. In this paper we enrich a multi-country Ricardian model of international trade to match import and export concentration. Our model is also able to account for changes in the Least Traded Products margin after a trade liberalization.</p></div>
 * ***The Economics of Green Firms***
 <div id="container" class="unhide-button" class="paper-link-div"> 
 <a id="abstract" onclick="displayTog('ectpAbstract')"><b>[Abstract]</b></a>
