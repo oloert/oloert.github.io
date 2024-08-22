@@ -15,7 +15,7 @@ author_profile: true
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the welfare impacts of the 2000s oil price boom before investigating the predicted welfare affects of vanishing global demand for fossil inputs. Consistent with the existing literature, my model produces welfare gains out of the 2000s energy price boom. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
+<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the predicted welfare impact of vanishing global demand for fossil inputs. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
 
 
 ## Publications
@@ -41,7 +41,19 @@ author_profile: true
 ## Works in Progress
 
 * ***Non-Homothetic Ricardo*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
-* ***The Macroeconomics of Green Firms***
+<div id="container" class="paper-link-div"> 
+<a id="abstract" onclick="displayTog('ricardoAbstract')"><b>[Abstract]</b></a>
+<!-- <a id="paper"><b>[Paper]</b></a>
+<a id="slides"><b>[Slides]</b></a> -->
+</div>
+<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary:</em></strong>Traditional models of international trade are capable of matching export patterns very well, but are less reliable at mapping imports. In this paper we develop a novel Ricardian model of international trade to capture import concentration and changes at the Least Trade Product Margin.</p></div>
+* ***The Economics of Green Firms***
+<div id="container" class="paper-link-div"> 
+<a id="abstract" onclick="displayTog('ectpAbstract')"><b>[Abstract]</b></a>
+<!-- <a id="paper"><b>[Paper]</b></a>
+<a id="slides"><b>[Slides]</b></a> -->
+</div>
+<div id="ectpAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary:</em></strong>How do producers of clean technology inputs differ from other firms? How responsive is the "Green Industry" to environmental policy? Using firm level data, linked with Survey Responses, I identify producers of Environmental and Clean Technology Products (ECTP) and study their composition and dynamics overtime</p></div>
 
 
 
