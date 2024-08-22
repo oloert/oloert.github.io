@@ -11,7 +11,7 @@ author_profile: true
 
 * ***SORE Losers: Small Oil-Rich Economies and the Green Transition***
 <div id="container" class="paper-link-div"> 
-<a id="abstract" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
+<a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
@@ -22,9 +22,9 @@ author_profile: true
 
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
-  <a id="abstract" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
+  <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Paper]</b></a>
-  <a id="media" onclick="displayTog('cjeMedia')"><b>[Media]</b></a>
+  <a id="media" class="unhide-button" onclick="displayTog('cjeMedia')"><b>[Media]</b></a>
 </div>
 <div id="cjeAbstract" class="paper-link-div" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
 <div id="cjeMedia" class="paper-link-div media-link-div" style="display:none;">
@@ -42,13 +42,13 @@ author_profile: true
 
 * ***Non-Homothetic Ricardo*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
 <div id="container" class="paper-link-div"> 
-<a id="abstract" onclick="displayTog('ricardoAbstract')"><b>[Abstract]</b></a>
+<a id="abstract" class="unhide-button" onclick="displayTog('ricardoAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
 <div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can get export concentration right, they are unable to match import concentration. In this paper we enrich a multi-country Ricardian model of international trade to match import and export concentration. Our model is also able to account for changes in the Least Traded Products margin after a trade liberalization.</p></div>
 * ***The Economics of Green Firms***
-<div id="container" class="paper-link-div"> 
+<div id="container" class="unhide-button" class="paper-link-div"> 
 <a id="abstract" onclick="displayTog('ectpAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->

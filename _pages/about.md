@@ -17,7 +17,7 @@ I am on the job market during the 2024-25 academic year and available for interv
 
 ***SORE Losers: Small Oil-Rich Economies and the Green Transition***
 <div id="container"> 
-<a id="abstract" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
+<a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>

@@ -11,7 +11,7 @@ author_profile: true
 
 * *ECON 3HH3: International Trade (Summer 2022)*
 <div id="container" class="paper-link-div"> 
-  <a id="description" onclick="displayTog('3hh3Desc')"><b>[Description]</b></a>
+  <a id="description" class="unhide-button" onclick="displayTog('3hh3Desc')"><b>[Description]</b></a>
   <a id="outline" href="../files/3HH3_outline.pdf"><b>[Course Outline]</b></a>
   <a id="evaluations" href="../files/3HH3_evaluations.pdf"><b>[Evaluationd]</b></a>
 </div>

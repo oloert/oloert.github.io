@@ -15,3 +15,7 @@
 .media-link-div > a {
   padding-right: 5px;
 }
+
+.unhide-button:hover{
+  cursor: pointer;
+}
