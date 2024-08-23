@@ -15,7 +15,7 @@ author_profile: true
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the predicted welfare impact of vanishing global demand for fossil inputs. The model predicts significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
+<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for oil exporting countries. In this paper I develop a quantitative model of a small open oil exporting country and apply it to Canadian data to quantify the welfare impact of vanishing global demand for fossil inputs. The model finds significant welfare losses for both current and future generations when the global demand for oil decreases over a period of 30 years.</p></div>
 
 
 ## Publications
@@ -46,14 +46,14 @@ author_profile: true
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can account for export concentration, they are unable to adequately match import concentration. In this paper we enrich a multi-country Ricardian model of international trade to match import and export concentration. Our model is also able to account for changes in the Least Traded Products margin after a trade liberalization.</p></div>
+<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can account for export concentration, they are unable to adequately match import concentration, particularly the fact that richer countries import a greater variety of goods. In this paper we enrich a multi-country Ricardian model of international trade to match both import and export concentration. Our model is also able to account for changes in the Least Traded Products margin (as defined in Kehoe and Ruhl, 2013) after a trade liberalization.</p></div>
 * ***The Economics of Green Firms***
 <div id="container" class="unhide-button" class="paper-link-div"> 
 <a id="abstract" onclick="displayTog('ectpAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a>
 <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="ectpAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How do producers of clean technology inputs differ from other firms? How responsive is the "Green Industry" to environmental policy? Using firm level data linked with survey responses, I identify producers of Environmental and Clean Technology Products (ECTP) and study their composition and dynamics over time</p></div>
+<div id="ectpAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How do producers of clean technology inputs differ from other firms? How responsive is the "Green Industry" to environmental policy? Using novel firm-level data from Canada, I identify producers of Environmental and Clean Technology Products (ECTP) and study their composition and dynamics over time</p></div>
 
 
 
