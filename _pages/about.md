@@ -49,7 +49,7 @@ I am on the job market during the 2024-25 academic year and available for interv
 
 ## References
 
-* [Pau S. Pujolàs](https://pau.pujolasfons.com/), McMaster University
+* [Pau S. Pujolas](https://pau.pujolasfons.com/), McMaster University
 * [Gajendran Raveendranathan](https://sites.google.com/site/gajendranraveendranathan/home), McMaster University
 * [Bettina Brüggemann](https://sites.google.com/site/brueggemannbettina/home), McMaster University
 * [Zachary L. Mahone](https://sites.google.com/site/zacharymahone/home), McMaster University
