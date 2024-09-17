@@ -9,7 +9,7 @@ author_profile: true
 
 ## Job Market Paper
 
-* Small Resource-Rich Economies and the Green Transition***
+* ***Small Resource-Rich Economies and the Green Transition***
 <div id="container" class="paper-link-div"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a>
