@@ -18,14 +18,14 @@ I am on the job market during the 2024-25 academic year and available for interv
 ***Small Resource-Rich Economies and the Green Transition***
 <div id="container"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
-<!-- <a id="paper"><b>[Paper]</b></a>
-<a id="slides"><b>[Slides]</b></a> -->
+<a id="paper" href="../files/jmp.pdf"><b>[Paper]</b></a>
+<!-- <a id="slides"><b>[Slides]</b></a> -->
 </div>
-<div id="jmpAbstract" style="display:none;"><p>The global push to move away from fossil fuels carries significant implications for countries with significant resource extraction sectors. In this paper I develop a quantitative model of a two region, multisector small open resource-rich economy with heterogeneous households. I calibrate the model to Canadian data to quantify the welfare impacts of vanishing global demand for fossil inputs and growth in clean energy adoption. I validate the model by applying it to the observed increase in oil prices between 1997-2020. Consistent with the data and existing literature, my model produces stronger wage growth in the fossil producing region, and overall welfare gains out of the 2000s oil price boom. The model predicts welfare losses when the global demand for fossil fuels decreases over a period of 30 years.</p></div>
+<div id="jmpAbstract" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I evaluate the welfare impact of falling global demand for fossil fuels and an expanding clean energy sector in small, resource-rich economies. I develop a quantitative model of a two-region, multisector, small open  economy with heterogeneous households featuring both fossil and clean production. Calibrating the model to Canadian data, I find that the transition to a Net Zero world by 2050 produces heterogeneous welfare losses across the age and income distribution. However, faster growth in the clean or non-energy sectors can make the transition welfare-enhancing.</p></div>
 
 ## Publications
 
-**Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
+***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container"> 
   <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Paper]</b></a>
