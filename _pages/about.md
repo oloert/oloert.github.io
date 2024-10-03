@@ -18,17 +18,17 @@ I am on the job market during the 2024-25 academic year and available for interv
 ***Small Resource-Rich Economies and the Green Transition***
 <div id="container"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
-<a id="paper" href="../files/jmp.pdf"><b>[Paper]</b></a>
-<!-- <a id="slides"><b>[Slides]</b></a> -->
+<a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
+<a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a>
 </div>
-<div id="jmpAbstract" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I evaluate the welfare impact of falling global demand for fossil fuels and an expanding clean energy sector in small, resource-rich economies. I develop a quantitative model of a two-region, multisector, small open  economy with heterogeneous households featuring both fossil and clean production. Calibrating the model to Canadian data, I find that the transition to a Net Zero world by 2050 produces heterogeneous welfare losses across the age and income distribution. However, faster growth in the clean or non-energy sectors can make the transition welfare-enhancing.</p></div>
+<div id="jmpAbstract" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I evaluate the welfare impact of falling global demand for fossil fuels and an expanding clean energy sector in small, resource-rich economies. I develop a quantitative model of a two-region, multisector, small open economy with heterogeneous households featuring both fossil and clean production. Calibrating the model to Canadian data, I find that the transition to a Net Zero world by 2050 reduces welfare by 0.73\% among young, low-income households living in the fossil extracting region of the economy. The magnitude of these losses decrease with age and with income. In order for the transition to be welfare enhancing for the economy, the annualized growth rate in non-energy productivity needs to increase by 1 percentage point above the current trend.</p></div>
 
 ## Publications
 
 ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container"> 
   <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
-  <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Paper]</b></a>
+  <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319" target="_blank"><b>[Paper]</b></a>
   <a id="media" class="unhide-button" onclick="displayTog('cjeMedia')"><b>[Media]</b></a>
 </div>
 <div id="cjeAbstract" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
@@ -42,6 +42,13 @@ I am on the job market during the 2024-25 academic year and available for interv
 <a href="https://nadaesgratis.es/admin/productividad-y-petroleo">NadaEsGratis </a>
 <a href="https://www.ctf.ca/EN/EN/Newsletters/Perspectives/2023/4/230405.aspx">Canadian Tax Foundation </a>
 </div>
+
+***Exploring the Results of the Ontario Home Care Minimum Wage Change*** (with A. Olaizola and A. Sweetman), *Healthcare Policy, vol. 16(1), 2020, 95-110*
+<div id="container"> 
+  <a id="abstract" class="unhide-button" onclick="displayTog('healthAbstract')"><b>[Abstract]</b></a>
+  <a id="paper" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7435072/" target="_blank"><b>[Paper]</b></a>
+  <div id="healthAbstract" style="display:none;"><p>In 2014, Ontario increased its “minimum wage” for personal support workers (PSWs) in publicly funded home care. The objective of this article is to determine the short-term results of this policy for home care PSWs’ wages, hours and job stability. Methods: This study uses descriptive graphs and ordinary least squares and unconditional quantile regressions, using PSWs across Canada as comparison groups. Results: Pre-policy nominal wages for Ontario home care PSWs stagnated, whereas real wages declined. The policy increased home care PSWs’ wages without noticeably affecting hours or job stability. However, wages were already increasing for low-wage home care workers in the rest of Canada.</p></div>
+</div>  
 
 ## Contact Information
 
