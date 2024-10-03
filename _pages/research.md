@@ -15,7 +15,7 @@ author_profile: true
 <a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
 <a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a>
 </div>
-<div id="jmpAbstract" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I evaluate the welfare impact of falling global demand for fossil fuels and an expanding clean energy sector in small, resource-rich economies. I develop a quantitative model of a two-region, multisector, small open economy with heterogeneous households featuring both fossil and clean production. Calibrating the model to Canadian data, I find that the transition to a Net Zero world by 2050 reduces welfare by 0.73\% among young, low-income households living in the fossil extracting region of the economy. The magnitude of these losses decrease with age and with income. In order for the transition to be welfare enhancing for the economy, the annualized growth rate in non-energy productivity needs to increase by 1 percentage point above the current trend.</p></div>
+<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I evaluate the welfare impact of falling global demand for fossil fuels and an expanding clean energy sector in small, resource-rich economies. I develop a quantitative model of a two-region, multisector, small open economy with heterogeneous households featuring both fossil and clean production. Calibrating the model to Canadian data, I find that the transition to a Net Zero world by 2050 reduces welfare by 0.73\% among young, low-income households living in the fossil extracting region of the economy. The magnitude of these losses decrease with age and with income. In order for the transition to be welfare enhancing for the economy, the annualized growth rate in non-energy productivity needs to increase by 1 percentage point above the current trend.</p></div>
 
 
 ## Publications
@@ -50,8 +50,8 @@ author_profile: true
 * ***Non-Homothetic Ricardo*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
 <div id="container" class="paper-link-div"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('ricardoAbstract')"><b>[Abstract]</b></a>
-<a id="paper"><b>[Paper]</b></a>
-<a id="slides" href="./files/nonhomotheticricardo_slides.pdf" target="_blank"><b>[Slides]</b></a>
+<!-- <a id="paper"><b>[Paper]</b></a> -->
+<a id="slides" href="../files/nonhomotheticricardo_slides.pdf" target="_blank"><b>[Slides]</b></a>
 </div>
 <div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can account for export concentration, they are unable to adequately match import concentration, particularly the fact that richer countries import a greater variety of goods. In this paper we enrich a multi-country Ricardian model of international trade to match both import and export concentration. Our model is also able to account for changes in the Least Traded Products margin (as defined in Kehoe and Ruhl, 2013) after a trade liberalization.</p></div>
 * ***The Economics of Green Firms***
