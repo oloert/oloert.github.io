@@ -43,7 +43,7 @@ My full [C.V.](../files/loertscher_cv.pdf)
 <h2 id="research-experience">Research Experience</h2>
 * ***Research Assistant***
   <ul style="list-style-type:none;padding-inline-start:0;">
-  <li>2020-<em>Present</em> - Professor Pau S. Pujolàs, McMaster University</li>
+  <li>2020-<em>Present</em> - Professor Pau S. Pujolas, McMaster University</li>
   <li>2020 - Professor Arthur Sweetman, McMaster University</li>  
   <li>2013-2015 - Professor Michelle Alexopoulos, University of Toronto</li>  
   <li>2014 - Professor Ismael Mourifie, University of Toronto</li>  
