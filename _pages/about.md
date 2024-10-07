@@ -31,8 +31,8 @@ My C.V. is available <a href="../files/loertscher_cv.pdf">here</a>.
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
   <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
-  <a id="paper" href="https://doi.org/10.1111/caje.12707"><b>[Paper]</b></a>
-  <a id="working-paper" href="../files/cje_wp.pdf"><b>[Working Paper]</b></a>
+  <a id="paper" href="https://doi.org/10.1111/caje.12707" target="_blank"><b>[Paper]</b></a>
+  <a id="working-paper" href="../files/cje_wp.pdf" target="_blank"><b>[Working Paper]</b></a>
   <a id="media" class="unhide-button" onclick="displayTog('cjeMedia')"><b>[Media]</b></a>
 </div>
 <div id="cjeAbstract" class="paper-link-div" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
