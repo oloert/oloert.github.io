@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full [C.V.](../files/loertscher_cv.pdf)
+My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
 
 <h2 id="education">Education</h2>
 * Ph.D in Economics, McMaster University, 2025 (expected)

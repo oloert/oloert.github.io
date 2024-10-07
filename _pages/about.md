@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at [McMaster University](https://www.economics.mcmaster.ca/)
+I am a Ph.D. candidate in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a>
 
 My research intersts are in Macroeconomics, Environmental Economics and International Economics.
 
 I am on the job market during the 2024-25 academic year and available for interviews.
 
-My C.V. is available <a href="../files/loertscher_cv.pdf">here</a>.
+My C.V. is available <a href="../files/loertscher_cv.pdf" target="_blank">here</a>.
 
 ## Job Market Paper
 
