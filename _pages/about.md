@@ -13,13 +13,15 @@ My research intersts are in Macroeconomics, Environmental Economics and Internat
 
 I am on the job market during the 2024-25 academic year and available for interviews.
 
+My C.V. is available <a href="../files/loertscher_cv.pdf">here</a>.
+
 ## Job Market Paper
 
 * ***Small Resource-Rich Economies and the Green Transition***
 <div id="container" class="paper-link-div"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
 <a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
-<a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a>
+<!-- <a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a> -->
 </div>
 <div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I quantify the welfare impact of this transition for a small, resource-rich country. I develop a quantitative, overlapping generations model of a multi-region, multi-sector, small open economy with heterogeneous households featuring both fossil and clean energy production and calibrate it to the Canadian economy. In a backward-looking exercise, I find that the global rise in oil prices from 1997 to 2020 can quantitatively account for wage, consumption, and GDP growth differences across Canadian regions with and without fossil fuel extraction. In forward-looking counterfactual experiments, I quantitatively evaluate the effects of a global transition to clean energy as laid out in the International Energy Agency's path to a Net Zero world by 2050. Through the lens of the model, this scenario calls for a 50% reduction in global fossil fuel demand and an expansion of the clean energy sector to account for 90% of domestic energy production. I find that the reduction in international demand for fossil fuels decreases lifetime consumption by 0.56% overall. These losses are most pronounced among young, low income households in the fossil extracting region, whose lifetime consumption decreases by 0.77%. The expansion of the clean energy sector dampens the aggregate losses by 15%. An immediate expansion in the clean sector reduces the losses by 54%.</p></div>
 
@@ -29,7 +31,8 @@ I am on the job market during the 2024-25 academic year and available for interv
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
   <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
-  <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Paper]</b></a>
+  <a id="paper" href="https://doi.org/10.1111/caje.12707"><b>[Paper]</b></a>
+  <a id="working-paper" href="../files/cje_wp.pdf"><b>[Working Paper]</b></a>
   <a id="media" class="unhide-button" onclick="displayTog('cjeMedia')"><b>[Media]</b></a>
 </div>
 <div id="cjeAbstract" class="paper-link-div" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
