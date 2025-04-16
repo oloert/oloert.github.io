@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a>
+I am a Senior Economist at the <a href="https://www.conferenceboard.ca/" target="_blank">Conference Board of Canada</a>. I completed my Ph.D. in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a> in 2025.
 
-My research intersts are in Macroeconomics, Environmental Economics and International Economics.
-
-I am on the job market during the 2024-25 academic year and available for interviews.
+My research intersts are in macroeconomics, international economics, and environmental economics.
 
 My C.V. is available <a href="../files/loertscher_cv.pdf" target="_blank">here</a>.
 
