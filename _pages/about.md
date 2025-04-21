@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Senior Economist at the <a href="https://www.conferenceboard.ca/" target="_blank">Conference Board of Canada</a>. I completed my Ph.D. in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a> in 2025.
 
-My research intersts are in macroeconomics, international economics, and environmental economics.
+My research interests are in macroeconomics, international economics, and environmental economics.
 
 My C.V. is available <a href="../files/loertscher_cv.pdf" target="_blank">here</a>.
 
