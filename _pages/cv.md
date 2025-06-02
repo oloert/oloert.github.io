@@ -111,4 +111,12 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
   <li>English, French, Swiss German (spoken)</li>
   </ul>
 
+<h2 id="awards">Honours and Awards</h2>
 
+* 2025 - Honourable Mention to the Purvis Prize
+
+* 2021-2024 - SSHRC CGS Doctoral Scholarship
+
+* 2019 - Graduate Scholarship, McMaster University
+
+* 2019 - Econometrics Award, University of Waterloo
