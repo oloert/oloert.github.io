@@ -21,15 +21,6 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
 <h2 id="research-interests">Research Interests</h2>
 * Macroeconomics, Environmental Economics, International Economics
 
-<h2 id="jmp">Job Market Paper</h2>
-* ***Small Resource-Rich Economies and the Green Transition***
-<div id="container" class="paper-link-div"> 
-<a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
-<a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
-<!-- <a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a> -->
-</div>
-<div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I quantify the welfare impact of this transition for a small, resource-rich country. I develop a quantitative, overlapping generations model of a multi-region, multi-sector, small open economy with heterogeneous households featuring both fossil and clean energy production and calibrate it to the Canadian economy. In a backward-looking exercise, I find that the global rise in oil prices from 1997 to 2020 can quantitatively account for wage, consumption, and GDP growth differences across Canadian regions with and without fossil fuel extraction. In forward-looking counterfactual experiments, I quantitatively evaluate the effects of a global transition to clean energy as laid out in the International Energy Agency's path to a Net Zero world by 2050. Through the lens of the model, this scenario calls for a 50% reduction in global fossil fuel demand and an expansion of the clean energy sector to account for 90% of domestic energy production. I find that the reduction in international demand for fossil fuels decreases lifetime consumption by 0.56% overall. These losses are most pronounced among young, low income households in the fossil extracting region, whose lifetime consumption decreases by 0.77%. The expansion of the clean energy sector dampens the aggregate losses by 15%. An immediate expansion in the clean sector reduces the losses by 54%.</p></div>
-
 <h2 id="publications">Publications</h2>
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
@@ -59,22 +50,6 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
   <div id="healthAbstract" style="display:none;"><p>In 2014, Ontario increased its “minimum wage” for personal support workers (PSWs) in publicly funded home care. The objective of this article is to determine the short-term results of this policy for home care PSWs’ wages, hours and job stability. Methods: This study uses descriptive graphs and ordinary least squares and unconditional quantile regressions, using PSWs across Canada as comparison groups. Results: Pre-policy nominal wages for Ontario home care PSWs stagnated, whereas real wages declined. The policy increased home care PSWs’ wages without noticeably affecting hours or job stability. However, wages were already increasing for low-wage home care workers in the rest of Canada.</p></div>
 </div>
 
-<h2 id="works-in-progress">Works in Progress</h2>
-* ***Non-Homothetic Ricardo*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
-<div id="container" class="paper-link-div"> 
-<a id="abstract" class="unhide-button" onclick="displayTog('ricardoAbstract')"><b>[Abstract]</b></a>
-<!-- <a id="paper"><b>[Paper]</b></a> -->
-<a id="slides" href="../files/nonhomotheticricardo_slides.pdf" target="_blank"><b>[Slides]</b></a>
-</div>
-<div id="ricardoAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How does product concentration affect welfare gains from trade? While traditional quantitative trade models can account for export concentration, they are unable to adequately match import concentration, particularly the fact that richer countries import a greater variety of goods. In this paper we enrich a multi-country Ricardian model of international trade to match both import and export concentration. Our model is also able to account for changes in the Least Traded Products margin (as defined in Kehoe and Ruhl, 2013) after a trade liberalization.</p></div>
-* ***The Economics of Green Firms***
-<div id="container" class="unhide-button" class="paper-link-div"> 
-<a id="abstract" onclick="displayTog('ectpAbstract')"><b>[Abstract]</b></a>
-<!-- <a id="paper"><b>[Paper]</b></a>
-<a id="slides"><b>[Slides]</b></a> -->
-</div>
-<div id="ectpAbstract" class="paper-link-div" style="display:none;"><p><strong><em>Preliminary: </em></strong>How do producers of clean technology inputs differ from other firms? How responsive is the "Green Industry" to environmental policy? Using novel firm-level data from Canada, I identify producers of Environmental and Clean Technology Products (ECTP) and study their composition and dynamics over time. Using these insights, I develop a model of heterogeneous firms (as in Hopenhayn, 1992) to assess the efficacy of policies aimed at growing the industry.</p></div>
-  
 <h2 id="teaching">Academic Experience</h2>
 * ***Instructor***
   <ul style="list-style-type:none;padding-inline-start:0;">
@@ -100,7 +75,7 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
 <h2 id="skills">Skills</h2>
 * ***Programming Languages***  
   <ul style="list-style-type:none;padding-inline-start:0;">
-  <li>Python, Fortran, Julia, Matlab, R, Stata, JavaScript, PHP</li>
+  <li>Python, Fortran, Julia, Matlab, R, Stata, EViews, JavaScript, PHP</li>
   </ul>  
 * ***Markdown Languages***  
   <ul style="list-style-type:none;padding-inline-start:0;">
