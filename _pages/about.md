@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Economist at <a href="https://www.signal49.ca/" target="_blank">Signal49 Research</a> (formerly the Conference Board of Canada). I completed my Ph.D. in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a> in 2025.
+I am a Senior Economist at <a href="https://www.signal49.ca/" target="_blank">Signal49 Research</a> (formerly operating as the Conference Board of Canada). I completed my Ph.D. in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a> in 2025.
 
 My research interests are in macroeconomics, international economics, and environmental economics.
 
