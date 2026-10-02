@@ -47,11 +47,11 @@ author_profile: true
 
 ## Works in Progress
 
-* ***Global Decarbonization and Resource-Rent Incidence in a Small Open Resource-Rich Economy***
+* ***Who Pays for Global Decarbonization? Fossil Rents and the Terms of Trade in a Small Fossil-Fueel Exporter***
 <div id="container" class="paper-link-div"> 
-<!-- <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
+<!-- <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a> -->
 <a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
-<a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a> -->
+<!-- <a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a> -->
 </div>
 <!-- <div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>The global transition to clean energy carries significant implications for countries with large resource extraction sectors. I evaluate the distribution of economic costs of falling global demand for fossil fuels and an expanding clean energy sector in small, resource-rich economies. I develop a quantitative model of a two-region, multisector, small open economy with heterogeneous households featuring both fossil and clean production. Calibrating the model to Canadian data, I find that the transition to a Net Zero world by 2050 reduces welfare by 0.73\% among young, low-income households living in the fossil extracting region of the economy. The magnitude of these losses decrease with age and with income. In order for the transition to be welfare enhancing for the economy, the annualized growth rate in non-energy productivity needs to increase by 1 percentage point above the current trend.</p></div> -->
 
