@@ -47,7 +47,7 @@ author_profile: true
 
 ## Works in Progress
 
-* ***Who Pays for Global Decarbonization? Fossil Rents and the Terms of Trade in a Small Fossil-Fueel Exporter***
+* ***Who Pays for Global Decarbonization? Fossil Rents and the Terms of Trade in a Small Fossil-Fuel Exporter***
 <div id="container" class="paper-link-div"> 
 <!-- <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a> -->
 <a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
