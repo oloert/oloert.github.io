@@ -14,12 +14,12 @@ redirect_from:
 My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
 
 <h2 id="education">Education</h2>
-* Ph.D in Economics, McMaster University, 2025 (expected)
+* Ph.D in Economics, McMaster University, 2025 
 * M.A. in Economics, University of Waterloo, 2019
 * B.Sc. with High Distinction in Economics & Mathematics, University of Toronto, 2016
 
 <h2 id="research-interests">Research Interests</h2>
-* Macroeconomics, Environmental Economics, International Economics
+* Macroeconomics, International Economics
 
 <h2 id="publications">Publications</h2>
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
@@ -55,6 +55,10 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
   <ul style="list-style-type:none;padding-inline-start:0;">
   <li>2022 - ECON 3HH3, <em>International Trade</em>, McMaster University</li>
   </ul>
+* ***Guest Lecturer***
+  <ul style="list-style-type:none;padding-inline-start:0;">
+  <li>2022 - ECON 751, <em>International Trade, Development and Investment</em>, McMaster University</li>
+  </ul>
 * ***Teaching Assistant***
   <ul style="list-style-type:none; padding-inline-start:0;">
   <li>2022 - ECON 721, <em>Graduate Macroeconomics</em>, McMaster University</li> 
@@ -88,7 +92,9 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
 
 <h2 id="awards">Honours and Awards</h2>
 
-* 2025 - Honourable Mention to the Purvis Prize
+* 2025 - Honourable Mention to the Purvis Prize for Loertscher and Pujolas, 2024
+
+* 2025 - SSHRC Postdoctoral Fellowship
 
 * 2021-2024 - SSHRC CGS Doctoral Scholarship
 
