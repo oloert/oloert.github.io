@@ -21,6 +21,14 @@ My full <a href="../files/loertscher_cv.pdf" target="_blank">C.V.</a>
 <h2 id="research-interests">Research Interests</h2>
 * Macroeconomics, International Economics
 
+<h2 id="working-paper">Working Papers</h2>
+* ***Who Pays for Global Decarbonization? Fossil Rents and the Terms of Trade in a Small Fossil-Fuel Exporter***
+<div id="container" class="paper-link-div"> 
+  <!-- <a id="abstract" class="unhide-button" onclick="displayTog('healthAbstract')"><b>[Abstract]</b></a> -->
+  <a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
+  <!-- <div id="healthAbstract" style="display:none;"><p>In 2014, Ontario increased its “minimum wage” for personal support workers (PSWs) in publicly funded home care. The objective of this article is to determine the short-term results of this policy for home care PSWs’ wages, hours and job stability. Methods: This study uses descriptive graphs and ordinary least squares and unconditional quantile regressions, using PSWs across Canada as comparison groups. Results: Pre-policy nominal wages for Ontario home care PSWs stagnated, whereas real wages declined. The policy increased home care PSWs’ wages without noticeably affecting hours or job stability. However, wages were already increasing for low-wage home care workers in the rest of Canada.</p></div> -->
+</div>
+
 <h2 id="publications">Publications</h2>
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
