@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Senior Economist at <a href="https://www.signal49.ca/" target="_blank">Signal49 Research</a> (formerly operating as the Conference Board of Canada). I completed my Ph.D. in Economics at <a href="https://www.economics.mcmaster.ca/" target="_blank">McMaster University</a> in 2025.
 
-My research interests are in macroeconomics, international economics, and environmental economics.
+My research interests are in macroeconomics and international economics.
 
 My C.V. is available <a href="../files/loertscher_cv.pdf" target="_blank">here</a>.
 
