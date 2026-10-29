@@ -32,7 +32,7 @@ My full <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank">C.V.</a>
 
 <h2 id="work-in-progress">Works in Progress</h2>
 
-* ***Canadian Productivity Growth: Stuck in the Pipelines*** (w [P. Pujolas](https://pau.pujolasfons.com/)))
+* ***Canadian Productivity Growth: Stuck in the Pipelines*** (w [P. Pujolas](https://pau.pujolasfons.com/))
 <div id="container" class="paper-link-div">
     <a id="abstract" class="unhide-button" onclick="displayTog('lp2Abstract')"><b>[Abstract]</b></a>
 </div>
