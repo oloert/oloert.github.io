@@ -13,7 +13,7 @@ author_profile: true
 <div id="container" class="paper-link-div"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('jmpAbstract')"><b>[Abstract]</b></a>
 <a id="paper" href="../files/jmp.pdf" target="_blank"><b>[Paper]</b></a>
-<a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a>
+<!-- <a id="slides" href="../files/jmp_slides.pdf" target="_blank"><b>[Slides]</b></a> -->
 </div>
 <div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>How are welfare losses distributed across households in a small fossil-fuel exporting economy during a global transition away from fossil fuels and what channels determine the losses? I build a multi-sector small open economy model with finitely lived households with idiosyncratic earnings risk, and endogenous terms of trade. I calibrate the model to Canadian data and find that aggregate losses across households amount to a 2 percent loss in consumption. The lifetime loss in consumption due to a fall in the world price for fossil exports explains between roughly 77 and 85 percent of the aggregate loss while the domestic carbon tax with a per-capita rebate explains between roughly 15 percent and 18 percent. Young households and future generations lose the most. The depreciation in the real exchange rate that is required to replace fossil exports lowers wages, costing young workers while raising the return on savings of older households. A model with endogenous terms of trade roughly doubles the loss of future cohorts relative to a model with a fixed real exchange rate. Compensating households alive at the start of the transition would cost 28 percent of GDP.</p></div>
 
