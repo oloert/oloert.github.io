@@ -11,7 +11,7 @@ I am a Senior Economist at <a href="https://www.signal49.ca/" target="_blank">Si
 
 My research interests are in macroeconomics and international economics.
 
-My C.V. is available <a href="../files/loertscher_cv.pdf" target="_blank">here</a>.
+My C.V. is available <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank">here</a>.
 
 ## Working Papers
 
