@@ -17,13 +17,21 @@ author_profile: true
 </div>
 <div id="jmpAbstract" class="paper-link-div" style="display:none;"><p>How are welfare losses distributed across households in a small fossil-fuel exporting economy during a global transition away from fossil fuels and what channels determine the losses? I build a multi-sector small open economy model with finitely lived households with idiosyncratic earnings risk, and endogenous terms of trade. I calibrate the model to Canadian data and find that aggregate losses across households amount to a 2 percent loss in consumption. The lifetime loss in consumption due to a fall in the world price for fossil exports explains between roughly 77 and 85 percent of the aggregate loss while the domestic carbon tax with a per-capita rebate explains between roughly 15 percent and 18 percent. Young households and future generations lose the most. The depreciation in the real exchange rate that is required to replace fossil exports lowers wages, costing young workers while raising the return on savings of older households. A model with endogenous terms of trade roughly doubles the loss of future cohorts relative to a model with a fixed real exchange rate. Compensating households alive at the start of the transition would cost 28 percent of GDP.</p></div>
 
+* ***Strength in Numbers? Middle-Power Coalitions and the Gains from Coordinated Tariffs*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [J. Rossbach](https://rossbach.georgetown.domains/)). Revise and Resubmit at *IMF Economic Review*.
+<div id="containter" class="paper-link-div">
+  <a id="abstract" class="unhide-button" onclick="displayTog('coalitionAbstract')"><b>[Abstract]</b></a>
+  <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7681518" target="_blank"><b>[Paper]</b></a>
+</div>
+<div id="coalitionAbstract" class="paper-link-div" style="display:none;"><p>Can middle powers gain by coordinating trade policy? We study how the 2025 U.S. tariff escalation changes the gains from coordination for a coalition of ten middlepower economies and the European Union. Using a multi-sector general-equilibrium trade model with input-output linkages, we compare coordinated tariffs before and after the escalation. First, the payoffs to coordination depend heavily on whether and how the target responds. With U.S. tariffs fixed, a common tariff raises coalition welfare by 0.23 percent. When the United States responds, the gain becomes a 0.03 percent loss. Second, coordination creates winners and losers within the coalition. Canada and Mexico, which send most of their goods exports to the United States, lose once it responds. Even with U.S. tariffs fixed, they do better acting alone, so the threat of breakup does not keep them at the common rate. Third, eliminating tariffs among members generates more robust gains than coordinated retaliation. Strength in numbers therefore depends on coalition design as well as coalition size.</p></div>
+
 
 ## Publications
 
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
   <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
-  <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Paper]</b></a>
+  <a id="paper" href="https://doi.org/10.1111/caje.12707" target="_blank"><b>[Paper]</b></a>
+  <a id="working-paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4417319"><b>[Working Paper]</b></a>
   <a id="media" class="unhide-button" onclick="displayTog('cjeMedia')"><b>[Media]</b></a>
 </div>
 <div id="cjeAbstract" class="paper-link-div" style="display:none;"><p>We study the behaviour of Canadian Total Factor Productivity (TFP) growth over the past 60 years. We find that the observed stagnation during the last 20 years is entirely accounted for by the Oil sector. Higher oil prices made capital-intensive sources of oil like the oil sands viable to extract on a commercial scale. However, the greater input required per barrel of oil slowed TFP growth. Comparing Canadian TFP growth to those of the United States and Norway reinforces these results. However, our result should not be interpreted to carry any welfare implications.</p></div>
