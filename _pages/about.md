@@ -27,14 +27,14 @@ My C.V. is available <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7681518" target="_blank"><b>[Paper]</b></a>
 </div>
 
-* ***Stuck in the pipelines: Canadian productivity growth after the oil sands***
+* ***Stuck in the pipelines: Canadian productivity growth after the oil sands*** (with <a href="https://pau.pujolasfons.com" target="_blank">P. Pujolas</a>)
 <div id="containter" class="paper-link-div">
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7727218" target="_blank"><b>[Paper]</b></a>
 </div>
 
 ## Publications
 
-* ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
+* ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with <a href="https://pau.pujolasfons.com" target="_blank">P. Pujolas</a>), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
   <!-- <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a> -->
   <a id="paper" href="https://doi.org/10.1111/caje.12707" target="_blank"><b>[Paper]</b></a>
@@ -69,8 +69,8 @@ My C.V. is available <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank
 
 ## References
 
-* [Pau S. Pujolas](https://pau.pujolasfons.com/), McMaster University
-* [Gajendran Raveendranathan](https://sites.google.com/site/gajendranraveendranathan/home), McMaster University
-* [Jevan Cherniwchan](https://cherniwchan.org/), McMaster University
-* [Bettina Brüggemann](https://sites.google.com/site/brueggemannbettina/home), McMaster University
-* [Zachary L. Mahone](https://sites.google.com/site/zacharymahone/home), McMaster University
+* <a href="https://pau.pujolasfons.com" target="_blank">Pau S. Pujolas</a>, McMaster University
+* <a href="https://sites.google.com/site/gajendranraveendranathan/home" target="_blank">Gajendran Raveendranathan</a>, McMaster University
+* <a href="https://cherniwchan.org/" target="_blank">Jevan Cherniwchan</a>, McMaster University
+* <a href="https://sites.google.com/site/brueggemannbettina/home" target="_blank">Bettina Brüggemann</a>, McMaster University
+* <a href="https://sites.google.com/site/zacharymahone/home" target="_blank">Zachary L. Mahone</a>, McMaster University

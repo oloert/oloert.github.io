@@ -30,14 +30,14 @@ My full <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank">C.V.</a>
 </div>
 <div id="jmpAbstract" style="display:none;"><p>How are welfare losses distributed across households in a small fossil-fuel exporting economy during a global transition away from fossil fuels and what channels determine the losses? I build a multi-sector small open economy model with finitely lived households with idiosyncratic earnings risk, and endogenous terms of trade. I calibrate the model to Canadian data and find that aggregate losses across households amount to a 2 percent loss in consumption. The lifetime loss in consumption due to a fall in the world price for fossil exports explains between roughly 77 and 85 percent of the aggregate loss while the domestic carbon tax with a per-capita rebate explains between roughly 15 percent and 18 percent. Young households and future generations lose the most. The depreciation in the real exchange rate that is required to replace fossil exports lowers wages, costing young workers while raising the return on savings of older households. A model with endogenous terms of trade roughly doubles the loss of future cohorts relative to a model with a fixed real exchange rate. Compensating households alive at the start of the transition would cost 28 percent of GDP.</p></div>
 
-* ***Strength in Numbers? Middle-Power Coalitions and the Gains from Coordinated Tariffs*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [J. Rossbach](https://rossbach.georgetown.domains/)). Revise and Resubmit at *IMF Economic Review*.
+* ***Strength in Numbers? Middle-Power Coalitions and the Gains from Coordinated Tariffs*** (with <a href="https://pau.pujolasfons.com" target="_blank">P. Pujolas</a> and <a href="https://rossbach.georgetown.domains/" target="_blank">J. Rossbach]</a>). Revise and Resubmit at *IMF Economic Review*.
 <div id="containter" class="paper-link-div">
   <a id="abstract" class="unhide-button" onclick="displayTog('coalitionAbstract')"><b>[Abstract]</b></a>
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7681518" target="_blank"><b>[Paper]</b></a>
 </div>
 <div id="coalitionAbstract" class="paper-link-div" style="display:none;"><p>Can middle powers gain by coordinating trade policy? We study how the 2025 U.S. tariff escalation changes the gains from coordination for a coalition of ten middlepower economies and the European Union. Using a multi-sector general-equilibrium trade model with input-output linkages, we compare coordinated tariffs before and after the escalation. First, the payoffs to coordination depend heavily on whether and how the target responds. With U.S. tariffs fixed, a common tariff raises coalition welfare by 0.23 percent. When the United States responds, the gain becomes a 0.03 percent loss. Second, coordination creates winners and losers within the coalition. Canada and Mexico, which send most of their goods exports to the United States, lose once it responds. Even with U.S. tariffs fixed, they do better acting alone, so the threat of breakup does not keep them at the common rate. Third, eliminating tariffs among members generates more robust gains than coordinated retaliation. Strength in numbers therefore depends on coalition design as well as coalition size.</p></div>
 
-* ***Stuck in the Pipelines: Canadian Productivity Growth after the Oil Sands*** (w [P. Pujolas](https://pau.pujolasfons.com/))
+* ***Stuck in the Pipelines: Canadian Productivity Growth after the Oil Sands*** (w <a href="https://pau.pujolasfons.com" target="_blank">P. Pujolas</a>)
 <div id="container" class="paper-link-div">
     <a id="abstract" class="unhide-button" onclick="displayTog('lp2Abstract')"><b>[Abstract]</b></a>
     <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7727218" target="_blank"><b>[Paper]</b></a>
@@ -46,7 +46,7 @@ My full <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank">C.V.</a>
 
 <h2 id="work-in-progress">Works in Progress</h2>
 
-* ***Non-Homothetic Ricardo*** (w [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
+* ***Non-Homothetic Ricardo*** (with <a href="https://pau.pujolasfons.com" target="_blank">P. Pujolas</a> and <a href="https://steingress.github.io/" target="_blank">W. Steingress</a>)
 <div id="container" class="paper-link-div"> 
 <a id="abstract" class="unhide-button" onclick="displayTog('ricardoAbstract')"><b>[Abstract]</b></a>
 <!-- <a id="paper"><b>[Paper]</b></a> -->
@@ -56,7 +56,7 @@ My full <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank">C.V.</a>
 
 
 <h2 id="publications">Publications</h2>
-* ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
+* ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with <a href="https://pau.pujolasfons.com" target="_blank">P. Pujolas</a>), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*
 <div id="container" class="paper-link-div"> 
   <a id="abstract" class="unhide-button" onclick="displayTog('cjeAbstract')"><b>[Abstract]</b></a>
   <a id="paper" href="https://doi.org/10.1111/caje.12707" target="_blank"><b>[Paper]</b></a>
