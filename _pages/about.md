@@ -27,6 +27,11 @@ My C.V. is available <a href="../files/LOERTSCHER_CV_website.pdf" target="_blank
   <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7681518" target="_blank"><b>[Paper]</b></a>
 </div>
 
+* ***Stuck in the pipelines: Canadian productivity growth after the oil sands***
+<div id="containter" class="paper-link-div">
+  <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7727218" target="_blank"><b>[Paper]</b></a>
+</div>
+
 ## Publications
 
 * ***Canadian Productivity Growth: Stuck in the Oil Sands*** (with [P. Pujolas](https://pau.pujolasfons.com/)), *Canadian Journal of Economics, vol. 57(2), May 2024, 478-501*

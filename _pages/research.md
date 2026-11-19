@@ -24,6 +24,13 @@ author_profile: true
 </div>
 <div id="coalitionAbstract" class="paper-link-div" style="display:none;"><p>Can middle powers gain by coordinating trade policy? We study how the 2025 U.S. tariff escalation changes the gains from coordination for a coalition of ten middlepower economies and the European Union. Using a multi-sector general-equilibrium trade model with input-output linkages, we compare coordinated tariffs before and after the escalation. First, the payoffs to coordination depend heavily on whether and how the target responds. With U.S. tariffs fixed, a common tariff raises coalition welfare by 0.23 percent. When the United States responds, the gain becomes a 0.03 percent loss. Second, coordination creates winners and losers within the coalition. Canada and Mexico, which send most of their goods exports to the United States, lose once it responds. Even with U.S. tariffs fixed, they do better acting alone, so the threat of breakup does not keep them at the common rate. Third, eliminating tariffs among members generates more robust gains than coordinated retaliation. Strength in numbers therefore depends on coalition design as well as coalition size.</p></div>
 
+* ***Stuck in the Pipelines: Canadian Productivity Growth after the Oil Sands*** (w [P. Pujolas](https://pau.pujolasfons.com/))
+<div id="container" class="paper-link-div">
+    <a id="abstract" class="unhide-button" onclick="displayTog('lp2Abstract')"><b>[Abstract]</b></a>
+    <a id="paper" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7727218" target="_blank"><b>[Paper]</b></a>
+</div>
+<div id="lp2Abstract" class="paper-link-div" style="display:none;"><p>While Canada's Total Factor Productivity (TFP) stagnation between 2001 and 2014 has been attributed to the oil sector, its persistence after 2014 reflects a broader set of capital-intensive industries: oil, transportation and warehousing, and utilities. Excluding these industries, Canadian business-sector TFP grew by 0.84 percent annually over 2001-2021. Together, these industries account for more than half of businesssector capital but only 15 percent of value added. A decomposition attributes approximately two-thirds of the aggregate productivity gap to capital accumulation and nearly half to declining productivity in these industries, with hours worked and capital intensity exerting small offsetting effects. International comparisons reveal a distinctively Canadian pattern: it is absent in the United States, while in Norway, the oil sector alone accounts for the country's lack of TFP growth.</p></div>
+
 
 ## Publications
 
@@ -54,12 +61,6 @@ author_profile: true
 </div>
 
 ## Works in Progress
-
-* ***Stuck in the Pipelines: Canadian Productivity Growth after the Oil Sands*** (w [P. Pujolas](https://pau.pujolasfons.com/))
-<div id="container" class="paper-link-div">
-    <a id="abstract" class="unhide-button" onclick="displayTog('lp2Abstract')"><b>[Abstract]</b></a>
-</div>
-<div id="lp2Abstract" class="paper-link-div" style="display:none;"><p>In Loertscher and Pujolas (2024) we showed that the stagnation of Canadian total factor productivity between 2001 and 2018 is accounted for entirely by the oil sector. Extending the exercise through the most recent data, we find that the oil sector alone no longer carries the result after 2014: oil investment collapsed with the oil price, and the sectors that succeeded it as the economy's capital sinks were transportation and warehousing — where the stock of engineering structures doubled during the pipeline construction era — and utilities, home of the decade's electricity megaprojects. Net of this energy-and-network-infrastructure complex, which holds three-fifths of the business-sector capital stock while producing about a seventh of its value added, Canadian TFP shows no stagnation at all: it grows at a steady 0.84 per cent per year from 2001 to 2021, with no break in 2014. The TFP of the complex itself fell by nearly half over the same period. No other group of three industries does as well, although much of the effect is the weight of capital removed. The pattern is distinctly Canadian: in the United States the complex’s share of private capital fell from a fifth in 1961 to about an eighth and aggregate TFP kept growing, while in Norway, where measured TFP has not grown since 2001, the oil sector accounts for the shortfall and the complex’s capital share shrank after 2014. Only Canada replaced one capital sink with another. As in our earlier work, the result carries no welfare implications: much of the measured decline is capital installed ahead of the output it will eventually move.</p></div>
 
 * ***Non-Homothetic Ricardo*** (with [P. Pujolas](https://pau.pujolasfons.com/) and [W. Steingress](https://steingress.github.io/))
 <div id="container" class="paper-link-div"> 
